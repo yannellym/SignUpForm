@@ -1,0 +1,27 @@
+
+body{
+   background-color: rgb(60, 255, 0);
+}
+.jumbotron{
+  padding-left: 10%;
+  color:rgb(0, 0, 0);
+  margin: 25% 10%;
+
+}
+
+.container {
+   text-align: center;
+}
+
+img {
+   box-shadow:  inset 10px 8px black;
+   box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
+   0 0  0 2px rgb(139, 139, 139),
+   0.3em 0.3em 1em rgba(0,0,0,0.3);
+   width: 60%;
+}
+
+.animate__heartBeat{
+
+   animation-iteration-count:  infinite;
+}
